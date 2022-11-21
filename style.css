@@ -1,0 +1,17 @@
+h1,
+h2 {
+  font-family: Lato;
+  text-align: center;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+canvas {
+  border: 1px solid black;
+  width: 800px;
+  height: 600px;
+}
